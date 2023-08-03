@@ -1,0 +1,25 @@
+.messageBox{
+  
+   width: fit-content;
+   padding: 1vmax;
+   margin: 1.5vmax;
+   border-radius: 0.5vmax;
+   display: inline-block;
+    clear: both;
+    
+
+}
+.right{
+   
+    background-color:white;
+    color: #f58796;
+   float: right;
+   
+    
+    
+}
+.left {
+        background-color: gray;
+        color: white;
+        float: left;
+}
